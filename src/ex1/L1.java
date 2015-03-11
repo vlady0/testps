@@ -21,6 +21,7 @@ public class L1 {
         
         Mobile m1 = new Mobile("Samsung", 500, "8 Gb", "Android");
         Mobile m2 = new Mobile("Iphone", 800, "16 Gb", "IOS");
+	Mobile m3 = new Mobile("Iphone", 1400, "32 Gb", "IOS");
           
         Cart c = new Cart();
         c.addProduct(p1, 10);
