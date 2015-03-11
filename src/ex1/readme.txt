@@ -1,0 +1,1 @@
+readme creat de vaidalorand
